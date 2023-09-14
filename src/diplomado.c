@@ -1,4 +1,5 @@
 #include "diplomado_lib.h"
+#include "stdlib.h"
 #include <stdio.h>
 
 int main() {
