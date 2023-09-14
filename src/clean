@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "Executing version DIPLOMADO_VERSION"
+echo "Simulating cleaning, wait 5 seconds....."
+sleep 5
+echo "Simulation completed"
